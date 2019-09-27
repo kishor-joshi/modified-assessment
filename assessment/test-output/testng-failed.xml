@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <parameter name="selecteddriver" value="ie"/>
+  <test thread-count="5" name="flipkart(failed)">
+    <classes>
+      <class name="com.atmecs.scripts.ValidateFooter">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="footerValidation"/>
+        </methods>
+      </class> <!-- com.atmecs.scripts.ValidateFooter -->
+    </classes>
+  </test> <!-- flipkart(failed) -->
+  <test thread-count="5" name="Myntr(failed)">
+    <classes>
+      <class name="com.atmecs.scripts.ValidateBlog">
+        <methods>
+          <include name="setBrowser"/>
+          <include name="validatebloger"/>
+        </methods>
+      </class> <!-- com.atmecs.scripts.ValidateBlog -->
+    </classes>
+  </test> <!-- Myntr(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

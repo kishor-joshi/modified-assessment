@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1">
+<parameter name="selecteddriver" value="chrome" />
+  <test name="footer">
+	 <classes>
+	  <class name="com.atmecs.scripts.ValidateFooter"/>  
+	 </classes>
+   </test>
+   
+  <test name="contentmenu">
+     <classes>
+       <class name="com.atmecs.scripts.ValidateContentMenu"/>
+     </classes>
+   </test>
+   <test name="blog">
+     <classes>
+     <class name="com.atmecs.scripts.ValidateBlog"/>
+     </classes>
+   </test>
+</suite> <!-- Suite1 -->
