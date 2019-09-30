@@ -12,4 +12,5 @@ public static final String blogPropertiesFilePath="./src/main/resources/locators
 public static final String twotimeDataPath="./src/main/resources/testdata/footercontent.xlsx";
 public static final String onetimeDataPath="./src/main/resources/testdata/oneTimeData.xlsx";
 public static final String contentDataPath="./src/main/resources/testdata/content.xlsx";
+public static final String footeerElementData="./src/main/resources/testdata/footerelement.xlsx";
 }

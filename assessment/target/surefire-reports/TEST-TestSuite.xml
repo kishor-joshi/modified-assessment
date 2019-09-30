@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="132.317" tests="3" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="141.632" tests="3" errors="0" skipped="0" failures="1">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_221\bin"/>
-    <property name="sun.java.command" value="C:\Users\kishor.joshi\AppData\Local\Temp\surefire8305018849896179637\surefirebooter2738146949394132640.jar C:\Users\kishor.joshi\AppData\Local\Temp\surefire8305018849896179637 2019-09-27T19-51-13_267-jvmRun1 surefire334555072217601344tmp surefire_08116278357106170263tmp"/>
+    <property name="sun.java.command" value="C:\Users\kishor.joshi\AppData\Local\Temp\surefire5878238234696405247\surefirebooter4889288868283650527.jar C:\Users\kishor.joshi\AppData\Local\Temp\surefire5878238234696405247 2019-09-30T19-10-39_313-jvmRun1 surefire1871964724166967247tmp surefire_02317596744860324813tmp"/>
     <property name="surefire.test.class.path" value="C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\target\test-classes;C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\target\classes;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-java\4.0.0-alpha-2\selenium-java-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.0.0-alpha-2\selenium-chrome-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.0.0-alpha-2\selenium-chromium-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-edgehtml-driver\4.0.0-alpha-2\selenium-edgehtml-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.0.0-alpha-2\selenium-edge-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-firefox-xpi-driver\4.0.0-alpha-2\selenium-firefox-xpi-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.0.0-alpha-2\selenium-firefox-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.0.0-alpha-2\selenium-ie-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.0.0-alpha-2\selenium-remote-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-api\4.0.0-alpha-2\selenium-api-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\net\bytebuddy\byte-buddy\1.9.12\byte-buddy-1.9.12.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\kishor.joshi\.m2\repository\io\opentracing\contrib\opentracing-tracerresolver\0.1.7\opentracing-tracerresolver-0.1.7.jar;C:\Users\kishor.joshi\.m2\repository\io\opentracing\opentracing-api\0.33.0\opentracing-api-0.33.0.jar;C:\Users\kishor.joshi\.m2\repository\com\google\guava\guava\27.1-jre\guava-27.1-jre.jar;C:\Users\kishor.joshi\.m2\repository\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;C:\Users\kishor.joshi\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\kishor.joshi\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\kishor.joshi\.m2\repository\org\checkerframework\checker-qual\2.5.2\checker-qual-2.5.2.jar;C:\Users\kishor.joshi\.m2\repository\com\google\errorprone\error_prone_annotations\2.2.0\error_prone_annotations-2.2.0.jar;C:\Users\kishor.joshi\.m2\repository\com\google\j2objc\j2objc-annotations\1.1\j2objc-annotations-1.1.jar;C:\Users\kishor.joshi\.m2\repository\org\codehaus\mojo\animal-sniffer-annotations\1.17\animal-sniffer-annotations-1.17.jar;C:\Users\kishor.joshi\.m2\repository\com\squareup\okhttp3\okhttp\3.14.0\okhttp-3.14.0.jar;C:\Users\kishor.joshi\.m2\repository\com\squareup\okio\okio\1.17.2\okio-1.17.2.jar;C:\Users\kishor.joshi\.m2\repository\io\opentracing\opentracing-util\0.33.0\opentracing-util-0.33.0.jar;C:\Users\kishor.joshi\.m2\repository\io\opentracing\opentracing-noop\0.33.0\opentracing-noop-0.33.0.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-opera-driver\4.0.0-alpha-2\selenium-opera-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.0.0-alpha-2\selenium-safari-driver-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\seleniumhq\selenium\selenium-support\4.0.0-alpha-2\selenium-support-4.0.0-alpha-2.jar;C:\Users\kishor.joshi\.m2\repository\org\testng\testng\7.0.0\testng-7.0.0.jar;C:\Users\kishor.joshi\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\poi\poi-ooxml\4.1.0\poi-ooxml-4.1.0.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\poi\poi\4.1.0\poi-4.1.0.jar;C:\Users\kishor.joshi\.m2\repository\commons-codec\commons-codec\1.12\commons-codec-1.12.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\commons\commons-collections4\4.3\commons-collections4-4.3.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\poi\poi-ooxml-schemas\4.1.0\poi-ooxml-schemas-4.1.0.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\xmlbeans\xmlbeans\3.1.0\xmlbeans-3.1.0.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\commons\commons-compress\1.18\commons-compress-1.18.jar;C:\Users\kishor.joshi\.m2\repository\com\github\virtuald\curvesapi\1.06\curvesapi-1.06.jar;C:\Users\kishor.joshi\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\kishor.joshi\.m2\repository\com\relevantcodes\extentreports\2.41.2\extentreports-2.41.2.jar;C:\Users\kishor.joshi\.m2\repository\org\jsoup\jsoup\1.8.3\jsoup-1.8.3.jar;C:\Users\kishor.joshi\.m2\repository\org\xerial\sqlite-jdbc\3.8.11.1\sqlite-jdbc-3.8.11.1.jar;C:\Users\kishor.joshi\.m2\repository\org\freemarker\freemarker\2.3.23\freemarker-2.3.23.jar;C:\Users\kishor.joshi\.m2\repository\org\mongodb\mongodb-driver\3.0.4\mongodb-driver-3.0.4.jar;C:\Users\kishor.joshi\.m2\repository\org\mongodb\bson\3.0.4\bson-3.0.4.jar;C:\Users\kishor.joshi\.m2\repository\org\mongodb\mongodb-driver-core\3.0.4\mongodb-driver-core-3.0.4.jar;C:\Users\kishor.joshi\.m2\repository\com\aventstack\extentreports\3.1.5\extentreports-3.1.5.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\httpcomponents\httpclient\4.5.2\httpclient-4.5.2.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\httpcomponents\httpcore\4.4.4\httpcore-4.4.4.jar;C:\Users\kishor.joshi\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\kishor.joshi\.m2\repository\org\apache\httpcomponents\httpmime\4.5.2\httpmime-4.5.2.jar;C:\Users\kishor.joshi\.m2\repository\com\google\code\gson\gson\2.8.0\gson-2.8.0.jar;C:\Users\kishor.joshi\.m2\repository\commons-io\commons-io\1.3.2\commons-io-1.3.2.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\kishor.joshi"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\kishor.joshi\AppData\Local\Temp\surefire8305018849896179637\surefirebooter2738146949394132640.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kishor.joshi\AppData\Local\Temp\surefire5878238234696405247\surefirebooter4889288868283650527.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_221\lib\resources.jar;C:\Program Files\Java\jre1.8.0_221\lib\rt.jar;C:\Program Files\Java\jre1.8.0_221\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_221\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_221\lib\jce.jar;C:\Program Files\Java\jre1.8.0_221\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_221\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_221\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -60,29 +60,45 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="footerValidation" classname="com.atmecs.scripts.ValidateFooter" time="48.95"/>
-  <testcase name="contentMenuValidation" classname="com.atmecs.scripts.ValidateContentMenu" time="6.856"/>
-  <testcase name="validatebloger" classname="com.atmecs.scripts.ValidateBlog" time="9.586">
-    <failure message="no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@href=&apos;#&apos;][contains(.,&apos;Insights&apos;)]&quot;}&#10;  (Session info: chrome=77.0.3865.90)&#10;For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;4.0.0-alpha-2&apos;, revision: &apos;f148142cf8&apos;, time: &apos;2019-07-01T20:55:26&apos;&#10;System info: host: &apos;ATMECSINLT-002&apos;, ip: &apos;55.55.52.108&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\KISHOR~1.JOS\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}&#10;Session ID: 148a22c87d642e65d2c5776c1d5f491c&#10;*** Element info: {Using=xpath, value=//a[@href=&apos;#&apos;][contains(.,&apos;Insights&apos;)]}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
-no such element: Unable to locate element: {"method":"xpath","selector":"//a[@href='#'][contains(.,'Insights')]"}
-  (Session info: chrome=77.0.3865.90)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
-System info: host: 'ATMECSINLT-002', ip: '55.55.52.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\KISHOR~1.JOS\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 148a22c87d642e65d2c5776c1d5f491c
-*** Element info: {Using=xpath, value=//a[@href='#'][contains(.,'Insights')]}
-	at com.atmecs.scripts.ValidateBlog.validatebloger(ValidateBlog.java:15)
+  <testcase name="footerValidation" classname="com.atmecs.scripts.ValidateFooter" time="56.876"/>
+  <testcase name="contentMenuValidation" classname="com.atmecs.scripts.ValidateContentMenu" time="3.903"/>
+  <testcase name="validatebloger" classname="com.atmecs.scripts.ValidateBlog" time="15.377">
+    <failure message="expected [failed: hidden message is not displayed posted comment with no data at comment box] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [failed: hidden message is not displayed posted comment with no data at comment box] but found [false]
+	at com.atmecs.scripts.ValidateBlog.validatebloger(ValidateBlog.java:19)
 </failure>
-    <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 36520
+    <system-out><![CDATA[6
+2019-09-30 19:12:51 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 03/15/2019
+2019-09-30 19:12:51 INFO  MonthConvertion:39 - difference in date is 199 days
+2019-09-30 19:12:51 INFO  Blogs:51 - blog name of March 15, 2019 is :Debunking Myths about AI
+2019-09-30 19:12:51 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 01/4/2019
+2019-09-30 19:12:51 INFO  MonthConvertion:39 - difference in date is 269 days
+2019-09-30 19:12:51 INFO  Blogs:51 - blog name of January 4, 2019 is :How Immersive Reality is transforming Healthcare
+2019-09-30 19:12:51 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 01/3/2019
+2019-09-30 19:12:51 INFO  MonthConvertion:39 - difference in date is 270 days
+2019-09-30 19:12:51 INFO  Blogs:51 - blog name of January 3, 2019 is :Securing Apache Kafka using trustStore and SASL
+2019-09-30 19:12:51 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 11/27/2018
+2019-09-30 19:12:51 INFO  MonthConvertion:39 - difference in date is 307 days
+2019-09-30 19:12:51 INFO  Blogs:51 - blog name of November 27, 2018 is :Explained! Distributed Load testing – How to calculate number of “Load Generators”?
+2019-09-30 19:12:51 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 11/22/2018
+2019-09-30 19:12:51 INFO  MonthConvertion:39 - difference in date is 312 days
+2019-09-30 19:12:52 INFO  Blogs:51 - blog name of November 22, 2018 is :Why do I need Istio for microservices?
+2019-09-30 19:12:52 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 10/5/2018
+2019-09-30 19:12:52 INFO  MonthConvertion:39 - difference in date is 360 days
+2019-09-30 19:12:52 INFO  Blogs:51 - blog name of October 5, 2018 is :Blockchain – State of POCs
+2019-09-30 19:13:01 INFO  BlogValidation:30 - title is Debunking Myths about AI | Atmecs, Inc. | Digital Solutions & Product Engineering Services Of all the cutting-edge technologies today, Artificial Intelligence is arguably the most important one, given its wide range of potential and prominence.
+2019-09-30 19:13:01 INFO  BlogValidation:36 - breadCrum matched.breadCrumb is Debunking Myths about AI
+2019-09-30 19:13:01 INFO  MonthConvertion:21 - Current date  09/30/2019 blog date 03/15/2019
+2019-09-30 19:13:01 INFO  MonthConvertion:39 - difference in date is 199 days
+2019-09-30 19:13:01 INFO  BlogValidation:61 - Passed: hidden message is not displayed without clicking on post comment
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 17591
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-[1569594188.260][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
-[1569594190.268][WARNING]: Timed out connecting to Chrome, retrying...
-Sep 27, 2019 7:53:12 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1569850948.581][WARNING]: This version of ChromeDriver has not been tested with Chrome version 77.
+[1569850950.587][WARNING]: Timed out connecting to Chrome, retrying...
+Sep 30, 2019 7:12:32 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
-[1569594194.897][WARNING]: Timed out connecting to Chrome, retrying...
+[1569850954.695][WARNING]: Timed out connecting to Chrome, retrying...
 ]]></system-err>
   </testcase>
 </testsuite>

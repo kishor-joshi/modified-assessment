@@ -16,6 +16,7 @@ public void validatebloger() throws Exception {
 	blog.validateBlog(driver);
 	validate.validateBreadCrumb(driver);
 	validate.validateDate(driver);
+	validate.validateErrorMessage(driver);
 	
 	
 }

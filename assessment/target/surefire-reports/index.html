@@ -147,28 +147,9 @@
                   <a name="validatebloger">
                   </a> <!-- validatebloger -->
                   <span class="method-name">validatebloger</span>
-                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//a[@href=&apos;#&apos;][contains(.,&apos;Insights&apos;)]&quot;}
-  (Session info: chrome=77.0.3865.90)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;4.0.0-alpha-2&apos;, revision: &apos;f148142cf8&apos;, time: &apos;2019-07-01T20:55:26&apos;
-System info: host: &apos;ATMECSINLT-002&apos;, ip: &apos;55.55.52.108&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_221&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.90, chrome: {chromedriverVersion: 76.0.3809.126 (d80a294506b4..., userDataDir: C:\Users\KISHOR~1.JOS\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:51716}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
-Session ID: 148a22c87d642e65d2c5776c1d5f491c
-*** Element info: {Using=xpath, value=//a[@href=&apos;#&apos;][contains(.,&apos;Insights&apos;)]}
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:191)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:125)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
-	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-	at com.atmecs.helper.ElementHelper.getElement(ElementHelper.java:36)
-	at com.atmecs.blogs.Blogs.navigateToBlog(Blogs.java:33)
-	at com.atmecs.scripts.ValidateBlog.validatebloger(ValidateBlog.java:15)
+                  <div class="stack-trace">java.lang.AssertionError: expected [failed: hidden message is not displayed posted comment with no data at comment box] but found [false]
+	at com.atmecs.blogs.BlogValidation.validateErrorMessage(BlogValidation.java:65)
+	at com.atmecs.scripts.ValidateBlog.validatebloger(ValidateBlog.java:19)
 	at java.util.ArrayList.forEach(Unknown Source)
 ... Removed 36 stack frames
 </div> <!-- stack-trace -->
@@ -313,15 +294,15 @@ data.addRows(3);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'footerValidation')
 data.setCell(0, 2, 'com.atmecs.scripts.ValidateFooter')
-data.setCell(0, 3, 48960);
+data.setCell(0, 3, 56874);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'validatebloger')
 data.setCell(1, 2, 'com.atmecs.scripts.ValidateBlog')
-data.setCell(1, 3, 9554);
+data.setCell(1, 3, 15364);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'contentMenuValidation')
 data.setCell(2, 2, 'com.atmecs.scripts.ValidateContentMenu')
-data.setCell(2, 3, 6856);
+data.setCell(2, 3, 3903);
 window.suiteTableData['Suite1']= { tableData: data, tableDiv: 'times-div-Suite1'}
 return data;
 }
@@ -398,31 +379,31 @@ return data;
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">footerValidation</span>
-                <span class="method-start">26181 ms</span>
+                <span class="method-start">22249 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.atmecs.scripts.ValidateContentMenu</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setBrowser(chrome)</span>
-                <span class="method-start">75291 ms</span>
+                <span class="method-start">79168 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <span class="method-name">contentMenuValidation</span>
-                <span class="method-start">97912 ms</span>
+                <span class="method-start">101096 ms</span>
               </div> <!-- test-method -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.atmecs.scripts.ValidateBlog</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setBrowser(chrome)</span>
-                <span class="method-start">104783 ms</span>
+                <span class="method-start">105015 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">validatebloger</span>
-                <span class="method-start">119420 ms</span>
+                <span class="method-start">124569 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

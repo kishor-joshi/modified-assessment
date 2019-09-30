@@ -7,7 +7,10 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -25,29 +28,25 @@ public  void ValidateFooterContent(WebDriver driver) throws Exception {
 	
 	ElementHelper helper=new ElementHelper();
 	Properties prop=new Properties();
-	 String[][] getData;
-	 String[][] getFooterData;
+	 String[][] getFooterElement;
 	FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 	prop.load(input);
 	
-	getData = ExcelReader.getUserData(Constants.ExcelFilePath);
-	getFooterData = ExcelReader.getUserData(Constants.twotimeDataPath);
-	String dataofOnetime[][]=ExcelReader.getUserData(Constants.onetimeDataPath);
+	getFooterElement=ExcelReader.getUserData(Constants.footeerElementData);
+	WebElement footerElement=helper.getElement(driver, prop, "footer");
+	JavascriptExecutor js = (JavascriptExecutor) driver;
+	js.executeScript("arguments[0].scrollIntoView();", footerElement);
 	
-	for(int i=0;i<getFooterData.length;i++) {
-		String element=prop.getProperty("twotimeContent").replace("###", getFooterData[i][0]);
-		 boolean isPresent=driver.findElement(By.xpath(element)).isDisplayed();
-		 Assert.assertEquals(true, isPresent,getFooterData[i][0]+"not displayed");
-		log.info(getFooterData[i][0]+" displayed");
-	}
-	for(int i=0;i<dataofOnetime.length;i++) {
-		String element=prop.getProperty("onetimeContent").replace("###", dataofOnetime[i][0]);
-		 boolean isPresent=driver.findElement(By.xpath(element)).isDisplayed();
-		 Assert.assertEquals(true, isPresent,dataofOnetime[i][0]+"not displayed");
-		 log.info(dataofOnetime[i][0]+" displayed");
+	for(int i=0;i<getFooterElement.length;i++) {
+		String xpath=prop.getProperty("footertextelement").replace("###", getFooterElement[i][0]);
+		 WebElement element=driver.findElement(By.xpath(xpath));
+		 boolean isPresent=element.isDisplayed();
+		 Actions action = new Actions(driver);
+		 action.moveToElement(element).build().perform();
+		 Assert.assertEquals(true, isPresent,getFooterElement[i][0]+"not displayed");
+		 log.info(getFooterElement[i][0]+" displayed");
 	
 	}
-	
 	
 	
 }

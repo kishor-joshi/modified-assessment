@@ -15,7 +15,7 @@ import com.atmecs.utils.Constants;
 public class AboutUsPage extends BaseClass{
 	
 	
-	//@Test(priority=2)
+	
 public  void aboutuspageFotterValidation(WebDriver driver) throws Exception {
 	Properties prop=new Properties();
 	ElementHelper helper=new ElementHelper();
@@ -26,6 +26,8 @@ helper.getElement(driver, prop, "aboutus").click();
 driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 String title=driver.getTitle();
 System.out.println(title);
+
+//validate footer at about page
 footer.ValidateFooterContent(driver);
 
 }

@@ -24,7 +24,7 @@
     <div class="top-banner-root">
       <span class="top-banner-title-font">Test results</span>
       <br/>
-      <span class="top-banner-font-1">1 suite</span>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
     </div> <!-- top-banner-root -->
     <div class="navigator-root">
       <div class="navigator-suite-header">
@@ -38,7 +38,7 @@
         <div class="rounded-window">
           <div class="suite-header light-rounded-window-top">
             <a href="#" class="navigator-link" panel-name="suite-Suite1">
-              <span class="suite-name border-passed">Suite1</span>
+              <span class="suite-name border-failed">Suite1</span>
             </a> <!-- navigator-link -->
           </div> <!-- suite-header light-rounded-window-top -->
           <div class="navigator-suite-content">
@@ -49,12 +49,12 @@
               <ul>
                 <li>
                   <a href="#" class="navigator-link " panel-name="test-xml-Suite1">
-                    <span>C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\src\main\resources\suites\content.xml</span>
+                    <span>C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\src\main\resources\suites\allsuites.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
                   <a href="#" class="navigator-link " panel-name="testlist-Suite1">
-                    <span class="test-stats">1 test</span>
+                    <span class="test-stats">3 tests</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -91,7 +91,21 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">1 method,   1 passed</span>
+                    <span class="method-stats">3 methods, 1 failed,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Suite1" class="hide-methods failed suite-Suite1"> (hide)</a> <!-- hide-methods failed suite-Suite1 -->
+                      <a href="#" panel-name="suite-Suite1" class="show-methods failed suite-Suite1"> (show)</a> <!-- show-methods failed suite-Suite1 -->
+                    </span>
+                    <div class="method-list-content failed suite-Suite1">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite1" title="com.atmecs.scripts.ValidateBlog" hash-for-method="validatebloger">validatebloger</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Suite1 -->
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -103,6 +117,11 @@
                       <span>
                         <img width="3%" src="passed.png"/>
                         <a href="#" class="method navigator-link" panel-name="suite-Suite1" title="com.atmecs.scripts.ValidateContentMenu" hash-for-method="contentMenuValidation">contentMenuValidation</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Suite1" title="com.atmecs.scripts.ValidateFooter" hash-for-method="footerValidation">footerValidation</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                     </div> <!-- method-list-content passed suite-Suite1 -->
@@ -117,6 +136,41 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite1" class="panel Suite1">
+          <div class="suite-Suite1-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.atmecs.scripts.ValidateBlog</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="validatebloger">
+                  </a> <!-- validatebloger -->
+                  <span class="method-name">validatebloger</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [failed: hidden message is not displayed posted comment with no data at comment box] but found [false]
+	at com.atmecs.blogs.BlogValidation.validateErrorMessage(BlogValidation.java:65)
+	at com.atmecs.scripts.ValidateBlog.validatebloger(ValidateBlog.java:19)
+... Removed 30 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite1-class-failed -->
+          <div class="suite-Suite1-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.atmecs.scripts.ValidateFooter</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="footerValidation">
+                  </a> <!-- footerValidation -->
+                  <span class="method-name">footerValidation</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite1-class-passed -->
           <div class="suite-Suite1-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -135,19 +189,29 @@
         </div> <!-- panel Suite1 -->
         <div panel-name="test-xml-Suite1" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\src\main\resources\suites\content.xml</span>
+            <span class="header-content">C:\Users\kishor.joshi\Desktop\java program\seleniumCodes\assessment\src\main\resources\suites\allsuites.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Suite1&quot;&gt;
-  &lt;test thread-count=&quot;5&quot; name=&quot;Test2&quot;&gt;
-    &lt;parameter name=&quot;selecteddriver&quot; value=&quot;chrome&quot;/&gt;
+  &lt;parameter name=&quot;selecteddriver&quot; value=&quot;chrome&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;footer&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.atmecs.scripts.ValidateFooter&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- footer --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;contentmenu&quot;&gt;
     &lt;classes&gt;
       &lt;class name=&quot;com.atmecs.scripts.ValidateContentMenu&quot;/&gt;
     &lt;/classes&gt;
-  &lt;/test&gt; &lt;!-- Test2 --&gt;
+  &lt;/test&gt; &lt;!-- contentmenu --&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;blog&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.atmecs.scripts.ValidateBlog&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- blog --&gt;
 &lt;/suite&gt; &lt;!-- Suite1 --&gt;
             </pre>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -159,7 +223,13 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test2 (1 class)</span>
+                <span class="test-name">footer (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">contentmenu (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">blog (1 class)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -185,16 +255,24 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(1);
+data.addRows(3);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'contentMenuValidation')
-data.setCell(0, 2, 'com.atmecs.scripts.ValidateContentMenu')
-data.setCell(0, 3, 5023);
+data.setCell(0, 1, 'footerValidation')
+data.setCell(0, 2, 'com.atmecs.scripts.ValidateFooter')
+data.setCell(0, 3, 55976);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'validatebloger')
+data.setCell(1, 2, 'com.atmecs.scripts.ValidateBlog')
+data.setCell(1, 3, 15883);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'contentMenuValidation')
+data.setCell(2, 2, 'com.atmecs.scripts.ValidateContentMenu')
+data.setCell(2, 3, 3815);
 window.suiteTableData['Suite1']= { tableData: data, tableDiv: 'times-div-Suite1'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 5 seconds</span>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
               <div id="times-div-Suite1">
               </div> <!-- times-div-Suite1 -->
             </div> <!-- times-div -->
@@ -220,14 +298,38 @@ return data;
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <div class="chronological-class">
-              <div class="chronological-class-name">com.atmecs.scripts.ValidateContentMenu</div> <!-- chronological-class-name -->
+              <div class="chronological-class-name">com.atmecs.scripts.ValidateFooter</div> <!-- chronological-class-name -->
               <div class="configuration-test before">
                 <span class="method-name">setBrowser(chrome)</span>
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="test-method">
+                <span class="method-name">footerValidation</span>
+                <span class="method-start">24474 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.atmecs.scripts.ValidateContentMenu</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">setBrowser(chrome)</span>
+                <span class="method-start">80487 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
                 <span class="method-name">contentMenuValidation</span>
-                <span class="method-start">22469 ms</span>
+                <span class="method-start">102321 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.atmecs.scripts.ValidateBlog</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">setBrowser(chrome)</span>
+                <span class="method-start">106147 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">validatebloger</span>
+                <span class="method-start">126609 ms</span>
               </div> <!-- test-method -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

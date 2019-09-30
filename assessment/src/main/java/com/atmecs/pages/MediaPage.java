@@ -23,6 +23,8 @@ public class MediaPage extends BaseClass {
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
 		String title=driver.getTitle();
 		System.out.println(title);
+		
+		//validate footer at Media page.
 		footer.ValidateFooterContent(driver);
 	}
 }

@@ -61,6 +61,8 @@ public class MonthConvertion {
 		}
 		if(j<10)
 			MM="0"+j;
+		else 
+			MM=MM+j;
 		
 		String blogDate=MM+"/"+dateArr[1]+"/"+dateArr[2];
 		return blogDate;
