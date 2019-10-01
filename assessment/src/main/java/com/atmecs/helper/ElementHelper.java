@@ -122,5 +122,21 @@ public class ElementHelper {
 			listOfString.add(i, listOfElement.get(i).getText());
 			return listOfString;
 	}
+	public  boolean isErrorMessageShowing(WebElement element,String browserType) {
+		String errorMessage=element.getAttribute("validationMessage");
+		if(browserType.equalsIgnoreCase("ie")) {
+			if(errorMessage.equalsIgnoreCase("This is the required filled."))
+				return true;
+			else
+				return false;
+		}
+		else {
+			if(errorMessage.equalsIgnoreCase("Please fill out this field."))
+				return true;
+			else
+				return false;
+		}
+			
+	}
 	
 }

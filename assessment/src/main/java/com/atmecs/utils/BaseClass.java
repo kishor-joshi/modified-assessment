@@ -2,6 +2,7 @@ package com.atmecs.utils;
 
 
 import java.io.FileInputStream;
+
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
@@ -20,6 +21,7 @@ import com.atmecs.helper.ElementHelper;
 import com.atmecs.pages.ValidateFooter;
 
 
+
 public class BaseClass {
 	public  WebDriver driver;
 /**
@@ -29,14 +31,18 @@ public class BaseClass {
  * @throws IOException
  */
 	
-	@Parameters("selecteddriver")
+	@Parameters({"selecteddriver","modeOfRunning"})
 	@BeforeTest
-	public void setBrowser(String selecteddriver) throws IOException {
-		
+	public void setBrowser(String selecteddriver,String modeOfRunning) throws IOException {
 		Properties prop=new Properties();
 		
-		switch (selecteddriver) {
+		if(modeOfRunning.equalsIgnoreCase("grid")) {
+			System.out.println(selecteddriver);
+			driver=com.atmecs.helper.BaseClassForGrid.getDriver(selecteddriver);
+		}
 		
+		else {
+			switch (selecteddriver) {
 		case "chrome":
 			ChromeOptions optionschrome = new ChromeOptions();
 			optionschrome.addArguments("--disable-notifications");
@@ -56,12 +62,12 @@ public class BaseClass {
 			driver = new InternetExplorerDriver();
 			break;
 		}
+		}
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 		prop.load(input);
 		driver.manage().timeouts().implicitlyWait(9, TimeUnit.SECONDS);
-		//getData = ExcelReader.getUserData(Constants.ExcelFilePath);
 		
 		driver.get(prop.getProperty("url"));
 		

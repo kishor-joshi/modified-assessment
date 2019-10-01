@@ -38,7 +38,10 @@ public class Blogs extends BaseClass{
 		Actions action = new Actions(driver);
 		action.moveToElement(element).build().perform();
 		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-		helper.getElement(driver, prop, "blog").click();
+		WebElement blogelement=helper.getElement(driver, prop, "blog");
+		action.moveToElement(blogelement).build().perform();
+		blogelement.click();
+	
 		
 		List<WebElement>datelist=helper.getElements(driver, prop, "blogdates");
 		System.out.println(datelist.size());
@@ -54,7 +57,10 @@ public class Blogs extends BaseClass{
 		}
 		blogcondtion=ExcelReader.getUserData(Constants.ExcelFilePath);
 		String xpath=prop.getProperty("blogcondtion").replace("###", blogcondtion[1][0]);
-		driver.findElement(By.xpath(xpath)).click();
+		WebElement readMoreElement=driver.findElement(By.xpath(xpath));
+		
+		action.moveToElement(readMoreElement).build().perform();
+		readMoreElement.click();
 	}
 	
 	

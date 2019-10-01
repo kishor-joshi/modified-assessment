@@ -6,10 +6,13 @@ import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
+import org.apache.poi.hssf.record.HideObjRecord;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Capabilities;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 
 import com.atmecs.helper.ElementHelper;
@@ -55,14 +58,15 @@ public void validateErrorMessage(WebDriver driver) throws Exception {
 	prop.load(input);
 	JavascriptExecutor js = (JavascriptExecutor) driver;
 	WebElement element=helper.getElement(driver, prop, "inputcommentbox");
+	Capabilities cap = ((RemoteWebDriver) driver).getCapabilities();
+    String browserName = cap.getBrowserName().toLowerCase();
+	boolean isErrorMessageDisplayed=helper.isErrorMessageShowing(element, browserName);
 	js.executeScript("arguments[0].scrollIntoView();", element);
-	WebElement hiddenMessage=helper.getElement(driver, prop, "hiddenmessage");
-	Assert.assertEquals(hiddenMessage.isDisplayed(),false ,"failed: hidden message is displaying without clicking on post comment");
-	log.info("Passed: hidden message is not displayed without clicking on post comment");
-
-	helper.getElement(driver, prop, "postcomment").click();
 	
-	Assert.assertEquals(hiddenMessage.isDisplayed(),"failed: hidden message is not displayed posted comment with no data at comment box");
+	helper.getElement(driver, prop, "postcomment").click();
+	isErrorMessageDisplayed=helper.isErrorMessageShowing(element, browserName);
+	log.info("error message: "+element.getAttribute("validationMessage"));
+	Assert.assertEquals(isErrorMessageDisplayed,true,"failed: hidden message is not displayed posted comment with no data at comment box");
 	log.info("passed: hidden message is displayed for posted comment with no data at comment box ");
 }
 }

@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
-  <parameter name="selecteddriver" value="chrome"/>
-  <test thread-count="5" name="blog(failed)">
+  <test thread-count="5" name="Test2(failed)">
+    <parameter name="modeOfRunning" value="normal"/>
+    <parameter name="selecteddriver" value="ie"/>
     <classes>
-      <class name="com.atmecs.scripts.ValidateBlog">
+      <class name="com.atmecs.scripts.ValidateFooter">
         <methods>
           <include name="setBrowser"/>
-          <include name="validatebloger"/>
+          <include name="footerValidation"/>
         </methods>
-      </class> <!-- com.atmecs.scripts.ValidateBlog -->
+      </class> <!-- com.atmecs.scripts.ValidateFooter -->
     </classes>
-  </test> <!-- blog(failed) -->
+  </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite1] -->
