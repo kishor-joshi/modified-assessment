@@ -3,14 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
   <test thread-count="5" name="Test2(failed)">
     <parameter name="modeOfRunning" value="normal"/>
-    <parameter name="selecteddriver" value="ie"/>
+    <parameter name="selecteddriver" value="firefox"/>
     <classes>
-      <class name="com.atmecs.scripts.ValidateFooter">
+      <class name="com.atmecs.scripts.ValidateMoreInfo">
         <methods>
           <include name="setBrowser"/>
-          <include name="footerValidation"/>
+          <include name="moreInfoValidation"/>
         </methods>
-      </class> <!-- com.atmecs.scripts.ValidateFooter -->
+      </class> <!-- com.atmecs.scripts.ValidateMoreInfo -->
     </classes>
   </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

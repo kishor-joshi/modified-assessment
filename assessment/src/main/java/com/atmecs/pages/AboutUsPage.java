@@ -25,12 +25,14 @@ FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFileP
 prop.load(input);
 Actions action = new Actions(driver);
 WebElement element=helper.getElement(driver, prop, "aboutus");
+
 action.moveToElement(element).build().perform();
 element.click();
 driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 String title=driver.getTitle();
 System.out.println(title);
-
+driver.manage().timeouts().implicitlyWait(Constants.waitingTime, TimeUnit.SECONDS);
+System.out.println("before");
 //validate footer at about page
 footer.ValidateFooterContent(driver);
 

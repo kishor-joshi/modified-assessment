@@ -1,13 +1,14 @@
 package com.atmecs.utils;
 
 import com.aventstack.extentreports.ExtentReports;
+
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
 
-public class ExtendReport {
+public class atmecsExtendReport {
 
-	static ExtentHtmlReporter reporter = new ExtentHtmlReporter("./src/test/resources/extendReport/toolExtendReport.html");
+	static ExtentHtmlReporter reporter = new ExtentHtmlReporter(Constants.extendReportPath);
 	static ExtentReports extent = new ExtentReports();
 
 	public static void reportLog(String testname, String Failuremsg) {

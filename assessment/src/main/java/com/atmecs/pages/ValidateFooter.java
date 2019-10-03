@@ -4,6 +4,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.Properties;
+import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
@@ -24,17 +25,22 @@ public class ValidateFooter {
 	
 	
 public  void ValidateFooterContent(WebDriver driver) throws Exception {
+	
 	Logger log=Logger.getLogger(ValidateFooter.class);
 	
+	driver.manage().timeouts().implicitlyWait(Constants.waitingTime, TimeUnit.SECONDS);
 	ElementHelper helper=new ElementHelper();
 	Properties prop=new Properties();
-	 String[][] getFooterElement;
+	
 	FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 	prop.load(input);
 	
-	getFooterElement=ExcelReader.getUserData(Constants.footeerElementData);
+	String[][] getFooterElement=ExcelReader.getUserData(Constants.footeerElementData);
+	
 	WebElement footerElement=helper.getElement(driver, prop, "footer");
+	
 	JavascriptExecutor js = (JavascriptExecutor) driver;
+	
 	js.executeScript("arguments[0].scrollIntoView();", footerElement);
 	
 	for(int i=0;i<getFooterElement.length;i++) {

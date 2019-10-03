@@ -3827,3 +3827,1083 @@
 2019-10-01 19:23:00 INFO  ValidateFooter:47 - India – Chennai displayed
 2019-10-01 19:23:01 INFO  ValidateFooter:47 - info@atmecs.com displayed
 2019-10-01 19:23:01 INFO  ValidateFooter:47 - Europe – Ireland displayed
+2019-10-03 14:13:29 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:13:29 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:13:29 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:28:54 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:28:54 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:28:54 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:30:53 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:30:53 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:30:53 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:30:53 INFO  MoreInfo:53 - Title  matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 14:40:08 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:40:08 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:40:08 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:40:08 INFO  MoreInfo:53 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 14:42:55 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:42:55 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:42:55 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:42:55 INFO  MoreInfo:59 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 14:46:48 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:46:48 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:46:48 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:46:48 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 14:46:53 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:46:53 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:46:53 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:46:53 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 14:46:57 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:46:57 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:46:58 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:46:58 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 14:47:03 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:47:03 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:47:03 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:47:03 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 14:47:08 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 14:47:09 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 14:47:09 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 14:47:09 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 15:19:07 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:19:07 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:19:07 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:19:12 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:19:12 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:19:12 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:19:17 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:19:17 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:19:17 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:19:21 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:19:21 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:19:22 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:19:26 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:19:26 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:19:26 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:20:52 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:20:52 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:20:52 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:20:57 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:20:57 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:20:57 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:21:02 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:21:02 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:21:02 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:21:07 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:21:07 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:21:07 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:21:11 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:21:11 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:21:11 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:21:15 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:21:15 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:21:15 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:21:19 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:21:19 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:21:19 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 15:26:48 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:26:48 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:26:48 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:26:52 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:26:52 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:26:52 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:26:57 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:26:57 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:26:57 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:27:01 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:27:01 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:27:01 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:27:07 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:27:07 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:27:07 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:27:12 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:27:12 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:27:12 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:27:16 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:27:16 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:27:16 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 15:27:56 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:27:56 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:27:56 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:28:01 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:01 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:01 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:28:06 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:06 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:06 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:28:11 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:11 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:11 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:28:16 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:16 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:16 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:28:23 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:23 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:23 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:28:27 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:28:27 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:28:27 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 15:31:39 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:31:39 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:31:40 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:31:44 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:31:44 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:31:44 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:31:50 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:31:50 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:31:50 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:31:54 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:31:54 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:31:55 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:31:59 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:31:59 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:31:59 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:32:04 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:32:04 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:32:04 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:32:08 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:32:08 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:32:08 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 15:47:07 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:07 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:07 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:47:12 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:12 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:13 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:47:17 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:17 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:17 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:47:22 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:22 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:22 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:47:26 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:26 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:26 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:47:31 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:31 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:31 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:47:36 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:47:36 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:47:36 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 15:51:22 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:22 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:22 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 15:51:28 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:28 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:28 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 15:51:33 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:33 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:33 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 15:51:38 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:38 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:38 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 15:51:43 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:43 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:43 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 15:51:47 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:47 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:47 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 15:51:51 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 15:51:51 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 15:51:51 INFO  MoreInfo:62 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 16:07:24 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:07:24 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:07:24 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:07:24 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 16:07:29 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:07:29 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:07:29 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:07:29 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 16:07:34 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:07:34 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:07:34 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:07:34 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 16:07:39 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:07:39 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:07:39 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:07:40 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 16:07:44 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:07:44 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:07:44 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:07:44 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 16:13:09 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:13:09 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:13:09 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:13:10 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 16:13:15 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:13:15 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:13:15 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:13:15 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 16:13:20 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:13:20 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:13:21 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:13:21 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 16:13:26 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:13:26 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:13:26 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:13:26 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 16:13:31 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:13:31 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:13:31 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:13:31 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 16:20:55 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:20:55 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:20:55 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:20:55 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 16:21:00 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:00 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:00 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:21:00 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 16:21:05 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:05 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:05 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:21:05 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 16:21:10 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:10 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:10 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:21:10 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 16:21:14 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:14 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:14 INFO  ValidateHelper:15 - breadcrumb matched at: digital life
+2019-10-03 16:21:14 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 16:21:24 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:24 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:24 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 16:21:29 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:29 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:29 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 16:21:35 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:35 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:35 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 16:21:41 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:41 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:41 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Quality Engineering
+2019-10-03 16:21:46 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:46 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:46 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Mobile Computing
+2019-10-03 16:21:51 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:51 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:51 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Digital Life
+2019-10-03 16:21:55 INFO  ValidateHelper:15 - breadcrumb matched at: Home
+2019-10-03 16:21:55 INFO  ValidateHelper:15 - breadcrumb matched at: services
+2019-10-03 16:21:55 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Infrastructure Services
+2019-10-03 16:51:29 INFO  ValidateHelper:17 - breadcrumb matched at: Home
+2019-10-03 16:51:29 INFO  ValidateHelper:17 - breadcrumb matched at: services
+2019-10-03 16:54:51 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 16:54:51 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 16:54:51 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 16:54:51 INFO  ValidateHelper:19 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 16:54:52 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 16:54:56 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 16:54:56 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 16:54:56 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 16:54:56 INFO  ValidateHelper:19 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 16:54:56 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 16:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 16:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 16:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 16:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: internet of things
+2019-10-03 16:55:00 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 16:55:05 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 16:55:05 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 16:55:05 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 16:55:05 INFO  ValidateHelper:19 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 16:55:05 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 16:55:10 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 16:55:10 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 16:55:10 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 16:55:10 INFO  ValidateHelper:19 - breadcrumb matched at: blockchain
+2019-10-03 16:55:10 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 17:22:58 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:22:58 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:22:58 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:22:58 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 17:22:58 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 17:23:04 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:23:04 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:23:04 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:23:04 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 17:23:04 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 17:23:10 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:23:10 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:23:10 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:23:10 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 17:23:10 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 17:23:15 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:23:15 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:23:15 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:23:15 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 17:23:15 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 17:23:19 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:23:19 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:23:19 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:23:19 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 17:23:20 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 17:25:30 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:25:30 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:25:30 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:25:30 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 17:25:30 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 17:25:34 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:25:35 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:25:35 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:25:35 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 17:25:35 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 17:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 17:25:39 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 17:25:44 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:25:44 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:25:44 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:25:44 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 17:25:44 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 17:25:49 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:25:49 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:25:49 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:25:49 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 17:25:49 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 17:31:00 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:31:00 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:31:00 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:31:00 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 17:31:01 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 17:31:07 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:31:07 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:31:07 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:31:07 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 17:31:07 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 17:31:13 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:31:13 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:31:13 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:31:13 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 17:31:13 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 17:31:18 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:31:18 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:31:18 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:31:18 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 17:31:18 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 17:31:23 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:31:23 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:31:23 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:31:23 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 17:31:23 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 17:40:58 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:40:59 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:40:59 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:40:59 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 17:40:59 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 17:41:03 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:41:03 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:41:03 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:41:04 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 17:41:04 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 17:41:08 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:41:08 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:41:08 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:41:08 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 17:41:08 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 17:41:12 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:41:12 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:41:13 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:41:13 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 17:41:13 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 17:41:17 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:41:17 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:41:17 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:41:17 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 17:41:17 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 17:42:26 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:42:26 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:42:26 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:42:26 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 17:42:26 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 17:42:30 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:42:30 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:42:30 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:42:30 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 17:42:30 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 17:42:35 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:42:35 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:42:35 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:42:35 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 17:42:35 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 17:42:40 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:42:40 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:42:40 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:42:40 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 17:42:40 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 17:42:46 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 17:42:46 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 17:42:46 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 17:42:46 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 17:42:47 INFO  MoreInfo:36 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 18:02:38 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:02:38 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:02:38 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:02:38 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 18:02:38 INFO  MoreInfo:48 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 18:02:43 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:02:43 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:02:43 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:02:43 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 18:02:43 INFO  MoreInfo:48 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 18:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 18:02:49 INFO  MoreInfo:48 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 18:02:54 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:02:54 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:02:54 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:02:54 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 18:02:54 INFO  MoreInfo:48 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 18:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 18:02:59 INFO  MoreInfo:48 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 18:40:27 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:40:27 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:40:27 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:40:27 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 18:40:28 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 18:40:28 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 18:40:33 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:40:33 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:40:33 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:40:33 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 18:40:33 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 18:40:33 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 18:40:38 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:40:38 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:40:38 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:40:38 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 18:40:38 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 18:40:38 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 18:40:44 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:40:44 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:40:44 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:40:44 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 18:40:44 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 18:40:44 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 18:40:49 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:40:49 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:40:49 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 18:40:49 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 18:40:49 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 18:40:49 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 18:47:04 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:47:04 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:47:04 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 18:47:04 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 18:47:04 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 18:47:11 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:47:11 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:47:11 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 18:47:11 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 18:47:11 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 18:47:17 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:47:17 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:47:17 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 18:47:17 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 18:47:17 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 18:47:23 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:47:23 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:49:36 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:49:36 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:49:36 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 18:49:36 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 18:49:36 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 18:49:41 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:49:41 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:49:41 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 18:49:42 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 18:49:42 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 18:49:47 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:49:47 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:49:47 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 18:49:47 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 18:49:47 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 18:49:53 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:49:53 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:58:20 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:58:20 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:58:20 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 18:58:20 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 18:58:20 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 18:58:26 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:58:26 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:58:26 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 18:58:26 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 18:58:26 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 18:58:34 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:58:34 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 18:58:34 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 18:58:34 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 18:58:34 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 18:58:40 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 18:58:40 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:02:48 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:02:48 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:02:48 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:02:53 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:02:53 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:02:53 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 19:02:53 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:02:53 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:02:59 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 19:02:59 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:02:59 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:03:07 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:03:07 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:31 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:07:31 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:31 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:07:31 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 19:07:31 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:07:31 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:07:36 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:07:36 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:36 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:07:37 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 19:07:37 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:07:37 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:07:42 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:07:42 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:42 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:07:42 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 19:07:42 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:07:42 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 19:07:48 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:07:48 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:48 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:07:48 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 19:07:48 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:07:48 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:07:54 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:07:54 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:07:54 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:07:54 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 19:07:54 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:07:54 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 19:08:08 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:08:08 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:08:08 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:08:08 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:08:08 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:08:13 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:08:13 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:08:13 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 19:08:13 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:08:13 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:08:18 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:08:18 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:08:18 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 19:08:19 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:08:19 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:08:24 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:08:24 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:31 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:09:31 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:31 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:09:31 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 19:09:31 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:09:31 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:09:36 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:09:36 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:36 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:09:36 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 19:09:36 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:09:36 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:09:41 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:09:41 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:41 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:09:41 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 19:09:42 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:09:42 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 19:09:47 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:09:47 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:47 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:09:47 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 19:09:47 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:09:47 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:09:52 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:09:52 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:09:52 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:09:52 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 19:09:52 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:09:52 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 19:10:07 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:10:07 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:10:07 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:10:07 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:10:07 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:10:14 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:10:14 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:10:14 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 19:10:14 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:10:14 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:10:20 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:10:20 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:10:20 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 19:10:20 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:10:20 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:10:26 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:10:26 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:05 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:05 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:05 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:25:05 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 19:25:05 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:25:05 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:25:10 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:10 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:10 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:25:10 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 19:25:11 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:25:11 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:25:16 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:16 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:16 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:25:16 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 19:25:16 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:25:16 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 19:25:21 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:21 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:22 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:25:22 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 19:25:22 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:25:22 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:25:27 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:27 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:27 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 19:25:27 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 19:25:27 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:25:27 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 19:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:39 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:25:39 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:25:39 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:25:45 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:45 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:45 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 19:25:45 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:25:45 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:25:50 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:50 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:25:50 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 19:25:50 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:25:50 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:25:55 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 19:25:56 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 19:30:07 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:30:07 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:30:07 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:30 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:31:30 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:31:30 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:30 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:31:30 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:31:35 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:31:35 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:31:35 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:36 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:31:36 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:31:42 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:31:42 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:31:42 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:42 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:31:42 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 19:31:48 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:31:48 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:31:48 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:49 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:31:49 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:31:54 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:31:54 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:31:54 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:31:54 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:31:54 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 19:32:06 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:32:06 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:32:06 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:32:06 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:32:06 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:32:12 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:32:12 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:32:12 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:32:12 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:32:12 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:32:18 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:32:18 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:32:18 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:32:18 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:32:18 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:32:25 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:32:25 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:37:59 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:37:59 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:37:59 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:37:59 INFO  ValidateHelper:19 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 19:37:59 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:37:59 INFO  MoreInfo:51 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:38:05 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:05 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:05 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:38:05 INFO  ValidateHelper:19 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 19:38:05 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:38:05 INFO  MoreInfo:51 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:38:11 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:11 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:11 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:38:11 INFO  ValidateHelper:19 - breadcrumb matched at: internet of things
+2019-10-03 19:38:11 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:38:11 INFO  MoreInfo:51 - title matched at: Internet of Things
+2019-10-03 19:38:17 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:17 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:17 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:38:17 INFO  ValidateHelper:19 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 19:38:17 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:38:17 INFO  MoreInfo:51 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:38:23 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:23 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:23 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:38:23 INFO  ValidateHelper:19 - breadcrumb matched at: blockchain
+2019-10-03 19:38:23 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:38:23 INFO  MoreInfo:51 - title matched at: Blockchain
+2019-10-03 19:38:35 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:35 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:35 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:38:35 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:38:35 INFO  MoreInfo:51 - title matched at: Enterprise Analytics
+2019-10-03 19:38:41 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:41 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:41 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:38:41 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:38:41 INFO  MoreInfo:51 - title matched at: Cloud Services
+2019-10-03 19:38:46 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:46 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:38:46 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:38:46 INFO  MoreInfo:49 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:38:46 INFO  MoreInfo:51 - title matched at: Product Engineering
+2019-10-03 19:38:52 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:38:52 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:31 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:49:31 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:31 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:49:31 INFO  ValidateHelper:19 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 19:49:32 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 19:49:32 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 19:49:37 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:49:37 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:37 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:49:37 INFO  ValidateHelper:19 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 19:49:38 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 19:49:38 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 19:49:43 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:49:43 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:43 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:49:43 INFO  ValidateHelper:19 - breadcrumb matched at: internet of things
+2019-10-03 19:49:43 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 19:49:43 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 19:49:49 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:49:49 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:49 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:49:49 INFO  ValidateHelper:19 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 19:49:49 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:49:49 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 19:49:55 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:49:55 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:49:55 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 19:49:55 INFO  ValidateHelper:19 - breadcrumb matched at: blockchain
+2019-10-03 19:49:55 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 19:49:55 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 19:50:06 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:50:06 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:50:06 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:50:07 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:50:07 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 19:50:12 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:50:12 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:50:12 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:50:13 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:50:13 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 19:50:18 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:50:18 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:50:18 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:50:18 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:50:18 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 19:50:24 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:50:24 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:54:54 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:54:54 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:54:54 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:54:54 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:54:54 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 19:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:55:00 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:55:00 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:55:00 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 19:55:07 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:55:07 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:55:07 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:55:07 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:55:07 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 19:55:13 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:55:13 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:56:02 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:56:02 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:56:02 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:56:02 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:56:02 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 19:56:09 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:56:09 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:56:09 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:56:09 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:56:09 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 19:56:16 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:56:16 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:56:16 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:56:16 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:56:16 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 19:56:22 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:56:22 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:58:27 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:58:27 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:58:27 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 19:58:28 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 19:58:28 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 19:58:34 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:58:35 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:58:35 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 19:58:35 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 19:58:35 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 19:58:41 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:58:41 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 19:58:41 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 19:58:41 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 19:58:41 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 19:58:47 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 19:58:47 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:37 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:01:37 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:37 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:01:37 INFO  ValidateHelper:19 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 20:01:37 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 20:01:37 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 20:01:42 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:01:42 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:42 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:01:42 INFO  ValidateHelper:19 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 20:01:42 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 20:01:42 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 20:01:47 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:01:47 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:47 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:01:47 INFO  ValidateHelper:19 - breadcrumb matched at: internet of things
+2019-10-03 20:01:47 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 20:01:47 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 20:01:53 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:01:53 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:53 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:01:53 INFO  ValidateHelper:19 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 20:01:53 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:01:53 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:01:59 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:01:59 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:01:59 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:01:59 INFO  ValidateHelper:19 - breadcrumb matched at: blockchain
+2019-10-03 20:01:59 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 20:01:59 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 20:06:34 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:06:34 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:06:34 INFO  ValidateHelper:19 - breadcrumb matched at: enterprise analytics
+2019-10-03 20:06:34 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 20:06:34 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 20:06:41 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:06:41 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:06:41 INFO  ValidateHelper:19 - breadcrumb matched at: cloud services
+2019-10-03 20:06:41 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 20:06:41 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 20:06:47 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:06:47 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:06:47 INFO  ValidateHelper:19 - breadcrumb matched at: product engineering
+2019-10-03 20:06:47 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 20:06:47 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 20:06:53 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:06:53 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:08:50 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:08:50 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:08:50 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:08:50 INFO  ValidateHelper:19 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 20:08:50 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 20:08:50 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 20:08:56 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:08:56 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:08:56 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:08:56 INFO  ValidateHelper:19 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 20:08:56 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 20:08:56 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 20:09:01 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:09:01 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:09:01 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:09:01 INFO  ValidateHelper:19 - breadcrumb matched at: internet of things
+2019-10-03 20:09:01 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 20:09:01 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 20:09:09 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:09:09 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:09:09 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:09:10 INFO  ValidateHelper:19 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 20:09:10 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:09:10 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:09:15 INFO  ValidateHelper:19 - breadcrumb matched at: Home
+2019-10-03 20:09:15 INFO  ValidateHelper:19 - breadcrumb matched at: services
+2019-10-03 20:09:15 INFO  ValidateHelper:19 - breadcrumb matched at: digital life
+2019-10-03 20:09:15 INFO  ValidateHelper:19 - breadcrumb matched at: blockchain
+2019-10-03 20:09:15 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 20:09:15 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 20:14:59 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:14:59 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:14:59 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:14:59 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 20:15:00 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 20:15:00 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 20:15:07 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:15:08 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:15:08 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:15:08 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 20:15:08 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 20:15:08 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 20:15:14 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:15:14 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:15:14 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:15:14 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 20:15:14 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 20:15:14 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 20:15:19 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:15:19 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:15:19 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:15:19 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 20:15:19 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:15:19 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:15:24 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:15:24 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:15:24 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:15:24 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 20:15:24 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 20:15:24 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 20:32:04 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:32:04 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:32:04 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:32:04 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 20:32:04 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 20:32:04 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 20:32:09 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:32:09 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:32:09 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:32:09 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 20:32:09 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 20:32:09 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 20:32:14 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:32:14 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:32:14 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:32:14 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 20:32:14 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 20:32:14 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 20:32:19 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:32:19 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:32:20 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:32:20 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 20:32:20 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:32:20 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:32:25 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:32:25 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:32:25 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:32:25 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 20:32:25 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 20:32:25 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 20:57:24 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:24 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:24 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:57:24 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 20:57:24 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 20:57:24 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 20:57:29 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:29 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:29 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:57:29 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 20:57:29 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 20:57:29 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 20:57:34 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:34 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:34 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:57:34 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 20:57:34 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 20:57:34 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 20:57:40 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:40 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:40 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:57:40 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 20:57:40 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:57:40 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 20:57:46 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:46 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:46 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 20:57:46 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 20:57:46 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 20:57:46 INFO  MoreInfo:52 - title matched at: Blockchain
+2019-10-03 20:57:58 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:57:58 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:57:58 INFO  ValidateHelper:18 - breadcrumb matched at: enterprise analytics
+2019-10-03 20:57:58 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Enterprise Analytics
+2019-10-03 20:57:58 INFO  MoreInfo:52 - title matched at: Enterprise Analytics
+2019-10-03 20:58:05 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:58:05 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:58:05 INFO  ValidateHelper:18 - breadcrumb matched at: cloud services
+2019-10-03 20:58:05 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Cloud Services
+2019-10-03 20:58:05 INFO  MoreInfo:52 - title matched at: Cloud Services
+2019-10-03 20:58:11 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:58:11 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 20:58:11 INFO  ValidateHelper:18 - breadcrumb matched at: product engineering
+2019-10-03 20:58:11 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Product Engineering
+2019-10-03 20:58:11 INFO  MoreInfo:52 - title matched at: Product Engineering
+2019-10-03 20:58:17 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 20:58:17 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:06 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 21:00:06 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:06 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 21:00:06 INFO  ValidateHelper:18 - breadcrumb matched at: artificial intelligence machine learning
+2019-10-03 21:00:06 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Artificial Intelligence / Machine Learning
+2019-10-03 21:00:06 INFO  MoreInfo:52 - title matched at: Artificial Intelligence / Machine Learning
+2019-10-03 21:00:13 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 21:00:13 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:13 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 21:00:13 INFO  ValidateHelper:18 - breadcrumb matched at: augmented reality virtual reality
+2019-10-03 21:00:13 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Augmented Reality / Virtual Reality
+2019-10-03 21:00:13 INFO  MoreInfo:52 - title matched at: Augmented Reality / Virtual Reality
+2019-10-03 21:00:22 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 21:00:22 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:22 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 21:00:22 INFO  ValidateHelper:18 - breadcrumb matched at: internet of things
+2019-10-03 21:00:22 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Internet of Things
+2019-10-03 21:00:22 INFO  MoreInfo:52 - title matched at: Internet of Things
+2019-10-03 21:00:28 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 21:00:28 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:28 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 21:00:28 INFO  ValidateHelper:18 - breadcrumb matched at: robotic process automation chatbots
+2019-10-03 21:00:28 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Robotic Process Automation & ChatBOTs
+2019-10-03 21:00:28 INFO  MoreInfo:52 - title matched at: Robotic Process Automation & ChatBOTs
+2019-10-03 21:00:34 INFO  ValidateHelper:18 - breadcrumb matched at: Home
+2019-10-03 21:00:34 INFO  ValidateHelper:18 - breadcrumb matched at: services
+2019-10-03 21:00:34 INFO  ValidateHelper:18 - breadcrumb matched at: digital life
+2019-10-03 21:00:34 INFO  ValidateHelper:18 - breadcrumb matched at: blockchain
+2019-10-03 21:00:34 INFO  MoreInfo:50 - Title matched with Breadcrumb at: Blockchain
+2019-10-03 21:00:34 INFO  MoreInfo:52 - title matched at: Blockchain

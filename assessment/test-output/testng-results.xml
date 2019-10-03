@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="16236" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:55Z">
+  <suite name="Suite1" duration-ms="59375" started-at="2019-10-03T15:29:45Z" finished-at="2019-10-03T15:30:44Z">
     <groups>
     </groups>
-    <test name="Test2" duration-ms="16236" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:55Z">
-      <class name="com.atmecs.scripts.ValidateFooter">
-        <test-method status="PASS" signature="setBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="setBrowser" is-config="true" duration-ms="14489" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:53Z">
+    <test name="Test2" duration-ms="59375" started-at="2019-10-03T15:29:45Z" finished-at="2019-10-03T15:30:44Z">
+      <class name="com.atmecs.scripts.ValidateMoreInfo">
+        <test-method status="PASS" signature="setBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.scripts.ValidateMoreInfo@5f341870]" name="setBrowser" is-config="true" duration-ms="15632" started-at="2019-10-03T15:29:45Z" finished-at="2019-10-03T15:30:00Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[ie]]>
+                <![CDATA[firefox]]>
               </value>
             </param>
             <param index="1">
@@ -23,23 +23,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBrowser -->
-        <test-method status="FAIL" signature="footerValidation()[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="footerValidation" duration-ms="1699" started-at="2019-10-03T04:46:53Z" finished-at="2019-10-03T04:46:55Z">
-          <exception class="org.openqa.selenium.NoSuchWindowException">
+        <test-method status="FAIL" signature="moreInfoValidation()[pri:0, instance:com.atmecs.scripts.ValidateMoreInfo@5f341870]" name="moreInfoValidation" duration-ms="43680" started-at="2019-10-03T15:30:00Z" finished-at="2019-10-03T15:30:44Z">
+          <exception class="org.openqa.selenium.TimeoutException">
             <message>
-              <![CDATA[Unable to get browser
+              <![CDATA[Timeout loading page after 10000ms
 Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
 System info: host: 'ATMECSINLT-002', ip: '55.55.52.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.ie.InternetExplorerDriver
-Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:18421/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
-Session ID: e0ee050c-5123-49d1-ac9e-2c683f71c9f9]]>
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 25860, moz:profile: C:\Users\kishor.joshi\AppDa..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3cf1457f-13d4-4218-85b8-67a5fa1cf294]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchWindowException: Unable to get browser
+              <![CDATA[org.openqa.selenium.TimeoutException: Timeout loading page after 10000ms
 Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
 System info: host: 'ATMECSINLT-002', ip: '55.55.52.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
-Driver info: org.openqa.selenium.ie.InternetExplorerDriver
-Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:18421/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
-Session ID: e0ee050c-5123-49d1-ac9e-2c683f71c9f9
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 69.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20190917135527, moz:geckodriverVersion: 0.24.0, moz:headless: false, moz:processID: 25860, moz:profile: C:\Users\kishor.joshi\AppDa..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 3cf1457f-13d4-4218-85b8-67a5fa1cf294
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -52,9 +52,11 @@ at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverComman
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:633)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
-at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
-at com.atmecs.pages.AboutUsPage.aboutuspageFotterValidation(AboutUsPage.java:31)
-at com.atmecs.scripts.ValidateFooter.footerValidation(ValidateFooter.java:26)
+at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.back(RemoteWebDriver.java:898)
+at com.atmecs.moreinfo.MoreInfoHelperClass.validateBreadCrumb(MoreInfoHelperClass.java:54)
+at com.atmecs.moreinfo.MoreInfoHelperClass.navigateToEachPage(MoreInfoHelperClass.java:75)
+at com.atmecs.moreinfo.MoreInfo.validateMoreInfo(MoreInfo.java:32)
+at com.atmecs.scripts.ValidateMoreInfo.moreInfoValidation(ValidateMoreInfo.java:25)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -82,11 +84,11 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- footerValidation -->
-      </class> <!-- com.atmecs.scripts.ValidateFooter -->
+        </test-method> <!-- moreInfoValidation -->
+      </class> <!-- com.atmecs.scripts.ValidateMoreInfo -->
     </test> <!-- Test2 -->
   </suite> <!-- Suite1 -->
 </testng-results>
