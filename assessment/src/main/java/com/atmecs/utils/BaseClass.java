@@ -63,11 +63,11 @@ public class BaseClass {
 			break;
 		}
 		}
-		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Constants.waitingTime, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 		prop.load(input);
-		driver.manage().timeouts().implicitlyWait(9, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(Constants.waitingTime, TimeUnit.SECONDS);
 		
 		driver.get(prop.getProperty("url"));
 		

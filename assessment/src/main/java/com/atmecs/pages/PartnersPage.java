@@ -20,7 +20,7 @@ public class PartnersPage extends BaseClass{
 		FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 		prop.load(input);
 		helper.getElement(driver, prop, "partner").click();
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 		String title=driver.getTitle();
 		System.out.println(title);
 		

@@ -31,7 +31,7 @@ public void validateContentOfServices(WebDriver driver) throws Exception {
 
 	FileInputStream input = new FileInputStream(Constants.contentPropertiesFilePath);
 	prop.load(input);
-	driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+	driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 	WebElement serviceElement=helper.getElement(driver, prop, "services");
 	Actions action = new Actions(driver);
 	

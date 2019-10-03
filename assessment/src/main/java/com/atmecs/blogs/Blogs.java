@@ -33,11 +33,11 @@ public class Blogs extends BaseClass{
 		
 		FileInputStream input = new FileInputStream(Constants.blogPropertiesFilePath);
 		prop.load(input);
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 		WebElement element=helper.getElement(driver, prop, "insights");
 		Actions action = new Actions(driver);
 		action.moveToElement(element).build().perform();
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 		WebElement blogelement=helper.getElement(driver, prop, "blog");
 		action.moveToElement(blogelement).build().perform();
 		blogelement.click();
@@ -66,7 +66,7 @@ public class Blogs extends BaseClass{
 	
 	
 	public void validateBlog(WebDriver driver) throws Exception {
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 		FileInputStream input = new FileInputStream(Constants.blogPropertiesFilePath);
 		prop.load(input);
 		String[][] blogcondtion=ExcelReader.getUserData(Constants.ExcelFilePath);

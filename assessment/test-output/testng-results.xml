@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite1" duration-ms="11754" started-at="2019-10-01T13:59:59Z" finished-at="2019-10-01T14:00:10Z">
+  <suite name="Suite1" duration-ms="16236" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:55Z">
     <groups>
     </groups>
-    <test name="Test2" duration-ms="11754" started-at="2019-10-01T13:59:59Z" finished-at="2019-10-01T14:00:10Z">
+    <test name="Test2" duration-ms="16236" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:55Z">
       <class name="com.atmecs.scripts.ValidateFooter">
-        <test-method status="PASS" signature="setBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="setBrowser" is-config="true" duration-ms="9839" started-at="2019-10-01T13:59:59Z" finished-at="2019-10-01T14:00:08Z">
+        <test-method status="PASS" signature="setBrowser(java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="setBrowser" is-config="true" duration-ms="14489" started-at="2019-10-03T04:46:39Z" finished-at="2019-10-03T04:46:53Z">
           <params>
             <param index="0">
               <value>
@@ -23,25 +23,23 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setBrowser -->
-        <test-method status="FAIL" signature="footerValidation()[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="footerValidation" duration-ms="1883" started-at="2019-10-01T14:00:08Z" finished-at="2019-10-01T14:00:10Z">
+        <test-method status="FAIL" signature="footerValidation()[pri:0, instance:com.atmecs.scripts.ValidateFooter@5f341870]" name="footerValidation" duration-ms="1699" started-at="2019-10-03T04:46:53Z" finished-at="2019-10-03T04:46:55Z">
           <exception class="org.openqa.selenium.NoSuchWindowException">
             <message>
-              <![CDATA[Currently focused window has been closed.
+              <![CDATA[Unable to get browser
 Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
 System info: host: 'ATMECSINLT-002', ip: '55.55.52.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
 Driver info: org.openqa.selenium.ie.InternetExplorerDriver
-Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:23844/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
-Session ID: 86d7d00b-da94-4015-9373-3ac69b10a94b
-*** Element info: {Using=xpath, value=//div[@id='footer']}]]>
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:18421/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: e0ee050c-5123-49d1-ac9e-2c683f71c9f9]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.NoSuchWindowException: Currently focused window has been closed.
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: Unable to get browser
 Build info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'
 System info: host: 'ATMECSINLT-002', ip: '55.55.52.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
 Driver info: org.openqa.selenium.ie.InternetExplorerDriver
-Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:23844/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
-Session ID: 86d7d00b-da94-4015-9373-3ac69b10a94b
-*** Element info: {Using=xpath, value=//div[@id='footer']}
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: false, ignoreZoomSetting: false, initialBrowserUrl: http://localhost:18421/, nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: e0ee050c-5123-49d1-ac9e-2c683f71c9f9
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
 at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
@@ -52,13 +50,10 @@ at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpRespo
 at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:161)
 at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
 at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:576)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:327)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:445)
-at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:319)
-at com.atmecs.helper.ElementHelper.getElement(ElementHelper.java:36)
-at com.atmecs.pages.ValidateFooter.ValidateFooterContent(ValidateFooter.java:36)
-at com.atmecs.pages.AboutUsPage.aboutuspageFotterValidation(AboutUsPage.java:35)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:633)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:637)
+at org.openqa.selenium.remote.RemoteWebDriver.getTitle(RemoteWebDriver.java:281)
+at com.atmecs.pages.AboutUsPage.aboutuspageFotterValidation(AboutUsPage.java:31)
 at com.atmecs.scripts.ValidateFooter.footerValidation(ValidateFooter.java:26)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)

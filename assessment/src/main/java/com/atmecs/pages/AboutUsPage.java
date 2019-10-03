@@ -27,7 +27,7 @@ Actions action = new Actions(driver);
 WebElement element=helper.getElement(driver, prop, "aboutus");
 action.moveToElement(element).build().perform();
 element.click();
-driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 String title=driver.getTitle();
 System.out.println(title);
 

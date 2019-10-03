@@ -13,4 +13,6 @@ public static final String twotimeDataPath="./src/main/resources/testdata/footer
 public static final String onetimeDataPath="./src/main/resources/testdata/oneTimeData.xlsx";
 public static final String contentDataPath="./src/main/resources/testdata/content.xlsx";
 public static final String footeerElementData="./src/main/resources/testdata/footerelement.xlsx";
+public static final int    waitingTime=10;
+public static final String gridNodeURL="http://55.55.52.108:2000/wd/hub";
 }

@@ -27,7 +27,7 @@ public class BlogValidation extends BaseClass {
 	 MonthConvertion monthObj=new MonthConvertion();
 	 
 public void validateBreadCrumb(WebDriver driver) throws Exception {
-	driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+	driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 	FileInputStream input = new FileInputStream(Constants.blogPropertiesFilePath);
 	prop.load(input);
 	log.info("title is "+driver.getTitle());
@@ -43,7 +43,7 @@ public void validateBreadCrumb(WebDriver driver) throws Exception {
 
 
 public void validateDate(WebDriver driver) throws Exception {
-	driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+	driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 	FileInputStream input = new FileInputStream(Constants.blogPropertiesFilePath);
 	prop.load(input);
 	String blogdate=helper.getElement(driver, prop, "blogdate").getText();

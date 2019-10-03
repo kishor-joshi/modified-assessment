@@ -20,7 +20,7 @@ public class MediaPage extends BaseClass {
 		FileInputStream input = new FileInputStream(Constants.homeLocatorPropertiesFilePath);
 		prop.load(input);
 		helper.getElement(driver, prop, "media").click();
-		driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
+		driver.manage().timeouts().pageLoadTimeout(Constants.waitingTime, TimeUnit.SECONDS);
 		String title=driver.getTitle();
 		System.out.println(title);
 		
